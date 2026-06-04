@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
