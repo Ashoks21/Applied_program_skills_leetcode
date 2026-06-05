@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
