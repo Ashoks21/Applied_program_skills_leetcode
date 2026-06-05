@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
