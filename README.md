@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
