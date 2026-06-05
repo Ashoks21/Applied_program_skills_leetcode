@@ -20,10 +20,12 @@
 | [0283-move-zeroes](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/0169-majority-element) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,5 +51,10 @@
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/3110-score-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ashoks21/Applied_program_skills_leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
